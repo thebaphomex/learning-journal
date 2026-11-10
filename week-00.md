@@ -58,6 +58,7 @@ My Answer: The path it takes to get to your file. IE: Desktop to Emulators to NE
 
 ## Question 5: What is a password manager for?
 My Answer: A storage for your database of passwords.
+
 *Tutor Feedback: Partial. Correct on encrypted storage, but also note that it generates unique, high-entropy passwords for every account.*
 **Target Phase: Week 0 & Week 26**
 
@@ -81,6 +82,7 @@ My Answer: A collection of servers that hold data that you can access without ta
 
 ## Question 9: What is a bug?
 My Answer: A part in code that is incorrect or that is causing an issue in an application.
+
 *Tutor Feedback: Strong. Exact definition of a software defect.*
 **Target Phase: Phase 4**
 
