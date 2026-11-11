@@ -19,9 +19,9 @@ This repository will document my learning journey, including:
 
 ## Current Progress
 
-**Week 0 — Preparation and Foundations**
+**Week 1 — Inside the Machine**
 
-I'm currently setting up my learning environment, establishing secure account practices, and preparing for my first formal IT lessons.
+I'm learning how computer hardware works, how computers represent information in binary, and how to use Task Manager to observe CPU activity as apps open and run.
 
 ## My Goal
 
