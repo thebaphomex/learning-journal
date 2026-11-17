@@ -19,9 +19,9 @@ This repository will document my learning journey, including:
 
 ## Current Progress
 
-**Week 1 — Inside the Machine**
+**Week 2 — From Click to App**
 
-I'm learning how computer hardware works, how computers represent information in binary, and how to use Task Manager to observe CPU activity as apps open and run.
+I'm learning what an operating system does, how it organizes files and folders, and what happens behind the scenes when I open an app. I'm also practicing using PowerShell to see which processes and services are running in Windows.
 
 ## My Goal
 
